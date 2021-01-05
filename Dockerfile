@@ -18,6 +18,8 @@ WORKDIR /var/www/html
 
 RUN apt-get update && apt-get install -y \
     libpq-dev \
+    libpng-dev \
+    zlib1g-dev \
     git \
     && docker-php-ext-configure pgsql -with-pgsql=/usr/local/pgsql \
     && docker-php-ext-install -j$(nproc) iconv \

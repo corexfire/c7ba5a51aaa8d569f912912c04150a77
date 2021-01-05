@@ -28,6 +28,7 @@
         "files": [
             "config/database.php",
             "config/constants.php",
+            "config/client.php",
             "helper.php",
             "routes.php"
         ]
