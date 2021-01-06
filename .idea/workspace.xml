@@ -20,32 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79f10bfc-6f70-46b8-9f55-b48aff5753ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Console/Migrate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Console/inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Migrate/Mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Migrate/Token.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Migrate/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Token.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/http/controllers/AuthController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/http/controllers/MailController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/http/controllers/PostController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/mail/inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/mail/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/queue/inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/queue/sendMailQueue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/queue/worker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/client.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/c7ba5a51aaa8d569f912912c04150a77.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/c7ba5a51aaa8d569f912912c04150a77.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/http/controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/http/controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609850110444</updated>
       <workItem from="1609850111775" duration="2413000" />
-      <workItem from="1609881958977" duration="2197000" />
+      <workItem from="1609881958977" duration="4664000" />
     </task>
     <servers />
   </component>
