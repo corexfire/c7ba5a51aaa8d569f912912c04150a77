@@ -1,9 +1,9 @@
-#KLOP Code Challenge
+# KLOP Code Challenge
 
-##Requirement
+## Requirement
  * [Docker] - is a tool designed to make it easier to create, deploy, and run applications by using containers.
 
-##Setup guide
+## Setup guide
 * Run docker-compose using this command:
     ```docker
     docker-compose up -d
